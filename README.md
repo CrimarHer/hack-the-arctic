@@ -10,7 +10,7 @@ Phytoplankton blooms occur on a seasonal cycle. When ice melts in the Northern s
 
 The aim was to give scientists access to data to help them to understand the extent to which the tropic levels are influenced by temperature or ice extent changes.
 
-#Team Members: R-ctic Explorers
+# Team Members: R-ctic Explorers
 
     Juan Pablo Lobo-Guerrero Villegas – (Tropical) Ecology
     Cristina Martin Hernandez - Data Scientist
@@ -18,6 +18,6 @@ The aim was to give scientists access to data to help them to understand the ext
     Janice Scheffler – Meteorology & Climate Scientist
     Philip Taylor - Data Scientist
 	
-#Outputs
+# Outputs
 
 See the outputs [here](http://meiotic.co.uk/hack-the-arctic/)
